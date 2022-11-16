@@ -7,6 +7,7 @@
 
 <style>
   footer {
+    margin-top: auto;
     background: black;
     color: white;
   }

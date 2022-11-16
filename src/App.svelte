@@ -2,10 +2,8 @@
   import Router from './routes/index.svelte'
 </script>
 
-<style>
+<Router />
+
+<style global>
 
 </style>
-
-<main>
-  <Router />
-</main>

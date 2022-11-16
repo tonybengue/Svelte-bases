@@ -8,9 +8,7 @@
 </script>
 
 <Router {url}>
-  <div>
-    <Route path="blog" component={Blog} />
-    <Route path="about" component={About} />
-    <Route path="/" component={Home} />
-  </div>
+  <Route path="blog" component={Blog} />
+  <Route path="about" component={About} />
+  <Route path="/" component={Home} />
 </Router>
